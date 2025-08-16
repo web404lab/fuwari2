@@ -26,7 +26,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://web404lab.github.io/fuwari2",
+	site: "https://web404lab.github.io/",
 	base: "/fuwari2",
 	trailingSlash: "always",
 	integrations: [
