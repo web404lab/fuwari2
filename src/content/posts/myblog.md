@@ -1,6 +1,8 @@
 ---
 title: 我的博客部署方案-近乎零成本
 published: 2025-08-17
+updated: 2025-08-17
+description: '免费部署一个漂亮的博客'
 tags: [Markdown, Blogging, astro,github action,github pages,fuwari]
 category: 技术文章
 draft: false
@@ -40,10 +42,10 @@ draft: false
 * [ ] 如果你打算使用username.github.io/repo-name作为域名，
   `astro.config.mjs`文件设置为
 
-```
-site: 'https://username.github.io',
-base: '/repo-name',
-```
+  ```
+  site: 'https://username.github.io',
+  base: '/repo-name',
+  ```
 
 文件内其余内容不变
 
@@ -53,11 +55,11 @@ pages设置与方案一的一致
 
 `astro.config.mjs`文件设置为
 
-```
-site: 'https://example.com',
+  ```
+  site: 'https://example.com',
 
-base: '/',
-```
+  base: '/',
+  ```
 
 文件内其余内容不变
 
@@ -80,5 +82,3 @@ published: Expected type `"date"`, received `"string"`
 解决方案：睡一觉再试试
 
 `(๑•̀ㅂ•́)و✧`
-
-
