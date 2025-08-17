@@ -47,9 +47,9 @@ draft: false
   base: '/repo-name',
   ```
 
-文件内其余内容不变
+  文件内其余内容不变
 
-pages设置与方案一的一致
+  pages设置与方案一的一致
 
 * [ ] 如果你想用自定义域名。
 
@@ -61,11 +61,11 @@ pages设置与方案一的一致
   base: '/',
   ```
 
-文件内其余内容不变
+  文件内其余内容不变
 
-在域名DNS记录中添加记录，参见[github官方文档](https://https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https#verifying-the-dns-configuration)
+  在域名DNS记录中添加记录，参见[github官方文档](https://https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https#verifying-the-dns-configuration)
 
-github pages设置与方案一的一致
+  github pages设置与方案一的一致
 
 ### OK，到这儿，你已经完成本教程了。
 
